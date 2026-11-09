@@ -41,7 +41,7 @@
         "gn:id":8554433
     },
     "wof:country":"PF",
-    "wof:geomhash":"598decd1b5b818d6c70c8e15c74f3110",
+    "wof:geomhash":"69c4de8d1d1fb111945afd5ae4b2c176",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     -151.36288000000005,
     -16.85021
 ],
-  "geometry": {"coordinates":[-151.36288000000005,-16.85021],"type":"Point"}
+  "geometry": {"coordinates":[-151.36288,-16.85021],"type":"Point"}
 }

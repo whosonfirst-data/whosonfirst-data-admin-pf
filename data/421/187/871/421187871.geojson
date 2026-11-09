@@ -59,7 +59,7 @@
     },
     "wof:country":"PF",
     "wof:created":1459009526,
-    "wof:geomhash":"9aa37867495258af2006dccf69640492",
+    "wof:geomhash":"4171b13c02313db6abe76bd1a74053f5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,5 +88,5 @@
     -151.0,
     -16.76667
 ],
-  "geometry": {"coordinates":[-151.0,-16.76667],"type":"Point"}
+  "geometry": {"coordinates":[-151,-16.76667],"type":"Point"}
 }

@@ -38,7 +38,7 @@
         "gn:id":4033981
     },
     "wof:country":"PF",
-    "wof:geomhash":"6c168cbb505e006304046508f0107947",
+    "wof:geomhash":"c0a90417fd00d7b8681f2f0f79cf53b9",
     "wof:hierarchy":[
         {
             "dependency_id":85632653,
@@ -61,5 +61,5 @@
     -150.98276,
     -16.70492999999999
 ],
-  "geometry": {"coordinates":[-150.98276000000001,-16.70492999999999],"type":"Point"}
+  "geometry": {"coordinates":[-150.98276,-16.70493],"type":"Point"}
 }
