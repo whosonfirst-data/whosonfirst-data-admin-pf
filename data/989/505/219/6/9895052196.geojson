@@ -1,0 +1,75 @@
+{
+  "id": 9895052196,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-151.02886,-16.70014,-151.02886,-16.70014",
+    "geom:latitude":-16.70014,
+    "geom:longitude":-151.02886,
+    "iso:country":"PF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12043128: name \"La Petite Ferme\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12043128"
+        },
+        {
+            "citation":"GeoNames populated place 12043128: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12043128"
+        },
+        {
+            "citation":"GeoNames populated place 12043128: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12043128"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85676731 (Leeward Islands), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676731,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12043128
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"5c9f33426327a25eb9d926d181c5e241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":9895052196,
+            "region_id":85676731
+        }
+    ],
+    "wof:id":9895052196,
+    "wof:lastmodified":1795735126,
+    "wof:name":"La Petite Ferme",
+    "wof:parent_id":85676731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -151.02886,
+    -16.70014,
+    -151.02886,
+    -16.70014
+],
+  "geometry": {"coordinates":[-151.02886,-16.70014],"type":"Point"}
+}

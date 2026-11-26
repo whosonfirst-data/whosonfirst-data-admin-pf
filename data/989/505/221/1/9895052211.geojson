@@ -1,0 +1,75 @@
+{
+  "id": 9895052211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-151.47544,-16.81357,-151.47544,-16.81357",
+    "geom:latitude":-16.81357,
+    "geom:longitude":-151.47544,
+    "iso:country":"PF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12043311: name \"Vaiapu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12043311"
+        },
+        {
+            "citation":"GeoNames populated place 12043311: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12043311"
+        },
+        {
+            "citation":"GeoNames populated place 12043311: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12043311"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85676731 (Leeward Islands), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676731,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12043311
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"18323960f503b44efd1df6caf0717d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":9895052211,
+            "region_id":85676731
+        }
+    ],
+    "wof:id":9895052211,
+    "wof:lastmodified":1795735126,
+    "wof:name":"Vaiapu",
+    "wof:parent_id":85676731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -151.47544,
+    -16.81357,
+    -151.47544,
+    -16.81357
+],
+  "geometry": {"coordinates":[-151.47544,-16.81357],"type":"Point"}
+}
