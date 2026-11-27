@@ -1,0 +1,72 @@
+{
+  "id": 9895092451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-147.75763,-15.22776,-147.75763,-15.22776",
+    "geom:latitude":-15.22776,
+    "geom:longitude":-147.75763,
+    "iso:country":"PF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12042315: name \"Hopiropiro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12042315"
+        },
+        {
+            "citation":"GeoNames populated place 12042315: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12042315"
+        },
+        {
+            "citation":"GeoNames populated place 12042315: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12042315"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85676737 (Tuamotu-Gambier), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676737,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12042315
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"08762d63dd5a96c654337bbf67e8f079",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253037,
+            "locality_id":9895092451,
+            "region_id":85676737
+        }
+    ],
+    "wof:id":9895092451,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Hopiropiro",
+    "wof:parent_id":85676737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -147.75763,
+    -15.22776,
+    -147.75763,
+    -15.22776
+],
+  "geometry": {"coordinates":[-147.75763,-15.22776],"type":"Point"}
+}
