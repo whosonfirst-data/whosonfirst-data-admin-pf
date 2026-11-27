@@ -1,0 +1,75 @@
+{
+  "id": 9895092452,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.41103,-17.76833,-149.41103,-17.76833",
+    "geom:latitude":-17.76833,
+    "geom:longitude":-149.41103,
+    "iso:country":"PF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12042322: name \"Papeuriri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12042322"
+        },
+        {
+            "citation":"GeoNames populated place 12042322: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12042322"
+        },
+        {
+            "citation":"GeoNames populated place 12042322: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12042322"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85676727 (Windward Islands), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676727,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12042322
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"8c5a2506132cb621c44b20238b42e2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":9895092452,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":9895092452,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Papeuriri",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.41103,
+    -17.76833,
+    -149.41103,
+    -17.76833
+],
+  "geometry": {"coordinates":[-149.41103,-17.76833],"type":"Point"}
+}

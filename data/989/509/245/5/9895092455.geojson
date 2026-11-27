@@ -1,0 +1,75 @@
+{
+  "id": 9895092455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.34539,-17.74699,-149.34539,-17.74699",
+    "geom:latitude":-17.74699,
+    "geom:longitude":-149.34539,
+    "iso:country":"PF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12042335: name \"Patutera\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12042335"
+        },
+        {
+            "citation":"GeoNames populated place 12042335: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12042335"
+        },
+        {
+            "citation":"GeoNames populated place 12042335: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12042335"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85676727 (Windward Islands), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632653,
+        85676727,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12042335
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"fecae81ee2ac07be4f3a8c31f54f3975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":9895092455,
+            "region_id":85676727
+        }
+    ],
+    "wof:id":9895092455,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Patutera",
+    "wof:parent_id":85676727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.34539,
+    -17.74699,
+    -149.34539,
+    -17.74699
+],
+  "geometry": {"coordinates":[-149.34539,-17.74699],"type":"Point"}
+}
